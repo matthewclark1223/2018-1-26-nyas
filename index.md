@@ -5,7 +5,7 @@ venue: "New York Academy of Sciences"        # brief name of host site without a
 address: "7 World Trade Center, 250 Greenwich St Fl 40, New York"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "USA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "40.766389,-73.971111"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "42.453190,-75.099419"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Jan 26-27, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00am - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-01-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
